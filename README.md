@@ -12,7 +12,7 @@
 ### Time Taken: 12hrs
 - This being my First tailwind project - took quite a long time as I spent most of the time `crtl+k` the required syntax on [Tailwind](https://tailwindcss.com/)
 
-### [LIVE LINK]()
+### [LIVE LINK](https://paytm-clone-vivekn.netlify.app/)
 
 ### Quick Look - Desktop View
 
